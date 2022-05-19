@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 -->
 [![Epikoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Epikoni&count_private=true&show_icons=true&theme=dracula)](https://github.com/Epikoni/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Epikoni&layout=compact)](https://github.com/Epikoni/github-readme-stats)
-<a href="https://github.com/Epikoni/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Epikoni&repo=github-readme-stats" />
-</a>
+
 <a href="https://github.com/Epikoni/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Epikoni&repo=convoychat" />
 </a>
